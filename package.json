@@ -1,0 +1,23 @@
+{
+  "name": "ppt",
+  "version": "1.0.0",
+  "description": "base on nodeppt",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodeppt start -d ./ppt -p 8090"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babytutu/ppt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babytutu/ppt/issues"
+  },
+  "homepage": "https://github.com/babytutu/ppt#readme",
+  "devDependencies": {
+    "nodeppt": "^1.4.5"
+  }
+}
